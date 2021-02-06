@@ -1,4 +1,4 @@
-# Human-Behavior-Project-CaseStudy-9
+# Human-Behavior-Project
 
 # Human Activity Recogonition Using Smartphones - KNeighbors Classifier
 
